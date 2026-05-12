@@ -1,0 +1,3 @@
+Protocol,Flow Duration,Total Fwd Packets,Total Backward Packets,Total Length of Fwd Packets,Total Length of Bwd Packets,Fwd Packet Length Max,Fwd Packet Length Min,Fwd Packet Length Mean,Bwd Packet Length Max,Bwd Packet Length Min,Flow Bytes/s,Flow Packets/s,Flow IAT Mean,Flow IAT Std,Fwd IAT Mean,Bwd IAT Mean,Packet Length Mean,Packet Length Std,FIN Flag Count,SYN Flag Count,ACK Flag Count,Active Mean,Idle Mean,Predicted_Label,Confidence
+6,707083,2,1,0,0,0,0,0.0,0,0,0.0,4.242783379,353541.5,499943.5862,707083.0,0.0,0.0,0.0,0,2,1,0,0,FTP-Patator,0.9989506
+6,6023400,9,13,146,602,33,0,16.22222222,247,0,124.1823555,3.65242222,286828.5714,642094.1739,710531.5,451330.8333,32.52173913,63.63594579,2,2,21,0,0,Heartbleed,1.0

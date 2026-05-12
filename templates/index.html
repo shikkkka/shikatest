@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>流量分析系统</title>
+    <style>
+        body { max-width: 800px; margin: 20px auto; padding: 20px; }
+        .upload-box { border: 2px dashed #ccc; padding: 30px; text-align: center; }
+        .requirements { margin: 20px 0; color: #666; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>网络流量分析系统</h1>
+    <div class="upload-box">
+        <form method="post" enctype="multipart/form-data" action="/predict">
+            <input type="file" name="file" accept=".csv" style="margin-bottom: 15px;">
+            <button type="submit" style="background: #4CAF50; color: white;">开始分析</button>
+        </form>
+    </div>
+    <div class="requirements">
+        <h3>文件要求：</h3>
+        <ul>
+            <li>CSV格式，GBK编码</li>
+            <li>必须包含Src IP列</li>
+            <li>文件大小不超过100MB</li>
+        </ul>
+    </div>
+</body>
+</html>
