@@ -4,7 +4,7 @@
 This project is a simple LSTM-based malicious traffic detection model, which can analyze multiple forms of traffic, assign weight scores to various dimensions of the traffic such as ports and lengths for detection, and this model also supports automatic saving and easy updating to facilitate future model iterations.
 The detailed training process and testing can be found in the code.
 
-[项目目录 Project Directory](#项目目录-project-directory)
+# 目录 Project Directory
 
 [项目结构 Project Structure](#项目结构-project-Structure)
 
