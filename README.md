@@ -16,9 +16,10 @@ The detailed training process and testing can be found in the code.
 
 [使用方法](#使用方法)
 
-# 项目声明 Project Statement 
-## 本项目作者及单位
-## The author and affiliation of this project
+### 项目声明 Project Statement 
+本项目作者及单位
+
+The author and affiliation of this project
 ```text
 项目名称（Project Name）：Malicious traffic detection based on LSTM
 项目作者（Author）：dingkang xu
