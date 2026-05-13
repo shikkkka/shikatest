@@ -15,4 +15,7 @@ The detailed training process and testing can be found in the code.
 [测试代码文件](#测试代码文件)
 
 [使用方法](#使用方法)
-
+```text
+项目声明 Project Statement
+本项目作者及单位
+The author and affiliation of this project
